@@ -109,7 +109,7 @@ static int gpio_key_remove(struct platform_device * pdev)
     }
 
     kfree(gpio_keys_100ask);
-    
+
     return 0;
 }
 
@@ -134,6 +134,8 @@ static int __init gpio_key_init(void)
     printk("%s %s line %d\n", __FILE__, __FUNCTION__, __LINE__);
 
     err = platform_driver_register(&gpio_keys_driver);
+
+    return 0;
 }
 
 static void __exit gpio_key_exit(void)
