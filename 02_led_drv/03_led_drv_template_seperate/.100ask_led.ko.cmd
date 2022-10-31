@@ -1,0 +1,1 @@
+cmd_/home/book/work/03_led_drv_template_seperate/100ask_led.ko := arm-buildroot-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/book/work/03_led_drv_template_seperate/100ask_led.ko /home/book/work/03_led_drv_template_seperate/100ask_led.o /home/book/work/03_led_drv_template_seperate/100ask_led.mod.o;  true

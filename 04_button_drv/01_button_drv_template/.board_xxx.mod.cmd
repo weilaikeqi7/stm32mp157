@@ -1,0 +1,1 @@
+cmd_/home/book/work/04_button_drv/01_button_drv_template/board_xxx.mod := { echo  /home/book/work/04_button_drv/01_button_drv_template/board_xxx.o; echo; } > /home/book/work/04_button_drv/01_button_drv_template/board_xxx.mod

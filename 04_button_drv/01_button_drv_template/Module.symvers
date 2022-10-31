@@ -1,0 +1,2 @@
+0x8bc08e95	register_button_operations	/home/book/work/04_button_drv/01_button_drv_template/button_drv	EXPORT_SYMBOL	
+0x4cf458a2	unregister_button_operations	/home/book/work/04_button_drv/01_button_drv_template/button_drv	EXPORT_SYMBOL	

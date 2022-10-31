@@ -1,0 +1,2 @@
+/home/book/work/01_hello_dev/hello_drv.o
+

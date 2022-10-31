@@ -1,0 +1,1 @@
+cmd_/home/book/work/04_button_drv/02_button_drv_100ask_stm32mp157/board_100ask_stm32mp157.mod := { echo  /home/book/work/04_button_drv/02_button_drv_100ask_stm32mp157/board_100ask_stm32mp157.o; echo; } > /home/book/work/04_button_drv/02_button_drv_100ask_stm32mp157/board_100ask_stm32mp157.mod

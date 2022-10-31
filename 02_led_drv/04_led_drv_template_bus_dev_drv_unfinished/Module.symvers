@@ -1,0 +1,3 @@
+0x8d31bcea	led_class_create_device	/home/book/work/04_led_drv_template_bus_dev_drv_unfinished/leddrv	EXPORT_SYMBOL	
+0x96f821c9	led_class_destroy_device	/home/book/work/04_led_drv_template_bus_dev_drv_unfinished/leddrv	EXPORT_SYMBOL	
+0x5990c3ab	register_led_operations	/home/book/work/04_led_drv_template_bus_dev_drv_unfinished/leddrv	EXPORT_SYMBOL	

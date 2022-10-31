@@ -1,0 +1,1 @@
+cmd_/home/book/work/05_led_drv_template_device_tree/leddrv.mod := { echo  /home/book/work/05_led_drv_template_device_tree/leddrv.o; echo; } > /home/book/work/05_led_drv_template_device_tree/leddrv.mod

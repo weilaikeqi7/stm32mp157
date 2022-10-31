@@ -1,0 +1,1 @@
+cmd_/home/book/work/01_led_drv_template/100ask_led.mod := { echo  /home/book/work/01_led_drv_template/leddrv.o /home/book/work/01_led_drv_template/board_demo.o; echo; } > /home/book/work/01_led_drv_template/100ask_led.mod
