@@ -81,7 +81,7 @@ static int gpio_key_probe(struct platform_device *pdev)
         gpio_keys_100ask[i].flag = flag & OF_GPIO_ACTIVE_LOW;
 
         if (flag & OF_GPIO_ACTIVE_LOW)
-            flags |= GPIO_ACTIVE_LOW;
+            flags |= GPIOF_ACTIVE_LOW;
 
         err = devm_gpio_request_one(&pdev->dev, gpio_keys_100ask[i].gpio, flags, NULL);
 
