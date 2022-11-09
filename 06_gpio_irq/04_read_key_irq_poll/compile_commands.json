@@ -1,0 +1,27 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "/home/book/100ask_stm32mp157_pro-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc.br_real",
+            "--sysroot",
+            "/home/book/100ask_stm32mp157_pro-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot",
+            "-o",
+            "button_test",
+            "button_test.c"
+        ],
+        "directory": "/home/book/work/stm32mp157/06_gpio_irq/04_read_key_irq_poll",
+        "file": "button_test.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "button_test",
+            "button_test.c"
+        ],
+        "directory": "/home/book/work/stm32mp157/06_gpio_irq/04_read_key_irq_poll",
+        "file": "button_test.c"
+    }
+]

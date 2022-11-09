@@ -1,0 +1,1 @@
+cmd_/home/book/work/stm32mp157/06_gpio_irq/04_read_key_irq_poll/gpio_key_drv.mod := { echo  /home/book/work/stm32mp157/06_gpio_irq/04_read_key_irq_poll/gpio_key_drv.o; echo; } > /home/book/work/stm32mp157/06_gpio_irq/04_read_key_irq_poll/gpio_key_drv.mod
